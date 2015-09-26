@@ -1,4 +1,3 @@
-/*global $gruntTools */
 $oop.postpone($gruntTools, 'MultiTask', function () {
     "use strict";
 

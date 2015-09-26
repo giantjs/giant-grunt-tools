@@ -1,4 +1,3 @@
-/*global $gruntTools */
 $oop.postpone($gruntTools, 'GruntProxy', function () {
     "use strict";
 

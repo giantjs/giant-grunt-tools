@@ -1,4 +1,3 @@
-/*global $gruntTools */
 (function () {
     "use strict";
 
